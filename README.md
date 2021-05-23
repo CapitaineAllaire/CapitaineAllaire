@@ -32,6 +32,6 @@ Visitez les repos de mes projets pour plus d'infos.
 Contacter moi avec vos projets, je pourrais être heureux de vous aider!
 
 <!---
-CapitaineAllaire/CapitaineAllaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CapitaineAllaire/CapitaineAllaire
 You can click the Preview link to take a look at your changes.
 --->
